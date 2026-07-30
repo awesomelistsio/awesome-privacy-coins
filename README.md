@@ -46,6 +46,7 @@
 - **[Samourai Wallet](https://samouraiwallet.com/)** - A privacy-focused Bitcoin wallet with features like CoinJoin.
 - **[Edge Wallet](https://edge.app/)** - A multi-currency wallet supporting various privacy coins.
 - **[Atomic Wallet](https://atomicwallet.io/)** - A multi-currency wallet with support for privacy coins like Monero and Zcash.
+- **[Coin Wallet](https://coin.space/)** - A open-source wallet since 2015, supporting Monero, Bitcoin and 20+ blockchains. Full support for Tor network.
 
 ## Privacy Tools and Technologies
 
